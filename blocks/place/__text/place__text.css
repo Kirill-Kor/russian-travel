@@ -1,0 +1,13 @@
+.place__text {
+  grid-area: text;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+@media screen and (max-width: 420px)  {
+  .place__text {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

@@ -8,6 +8,7 @@
   gap: 80px;
 }
 
+
 @media screen and (max-width: 1024px) {
   .places {
     padding-left: 48px;

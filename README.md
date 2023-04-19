@@ -1,4 +1,6 @@
 # Проект: Путешествие по России
+<img src="https://mini.s-shot.ru/1024x768/JPEG/1024/Z30/?https%3A%2F%2Fkirill-kor.github.io%2Frussian-travel%2F
+ "/>
 
 ## Обзор
 * Описание

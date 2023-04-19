@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-<img src="https://4.downloader.disk.yandex.ru/preview/0e5031dc8a0ea7277e439e7861033d48758638e5de4af29597f75c74f24365bd/inf/GVFboARZBh-VSRtPr_5bNu0HWpXXRFGiLKnI8xImkCi7zUoT0_01Sw41vgjjXU_vEft_7GZle_TdpB3z-C86dg%3D%3D?uid=537312570&filename=путешествие.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=537312570&tknv=v2&size=1855x940"></img>
+![Демо сайта](./images/preview.jpg)
 
 
 ## Обзор

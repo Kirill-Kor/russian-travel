@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-![Демо сайта](./images/preview.jpg)
+<a href="https://kirill-kor.github.io/russian-travel" target="_blank"><img src="./images/preview.jpg" alt="Демо сайта"></a>
 
 
 ## Обзор

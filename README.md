@@ -26,4 +26,4 @@
 
 ### **Github Pages**
 <a href="https://kirill-kor.github.io/russian-travel" target="_blank"> Ссылка на Github Pages </a>
-* [Ссылка на Github Pages](https://kirill-kor.github.io/russian-travel/)
+* [Ссылка на Github Pages](https://kirill-kor.github.io/russian-travel/){:target="_blank"}
